@@ -1,0 +1,25 @@
+# OS Files
+.DS_Store
+Thumbs.db
+.windows-build-cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and dependencies
+node_modules/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# System files
+.env.local
+.env.*.local
